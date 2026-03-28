@@ -261,15 +261,15 @@ def clean_users(
 
 
 if __name__ == "__main__":
-    """
-    Example usage of the cleaning pipeline.
+    # """
+    # Example usage of the cleaning pipeline.
 
-    Demonstrates:
-        - valid records
-        - invalid records
-        - logging output
-        - rejected reason capture
-    """
+    # Demonstrates:
+    #     - valid records
+    #     - invalid records
+    #     - logging output
+    #     - rejected reason capture
+    # """
 
     new_records = [
         {"email": "Ada@Example.com ", "age": "23", "country": "ng"},
