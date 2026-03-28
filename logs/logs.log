@@ -1,0 +1,48 @@
+2026-02-21  19:55 - INFO  - Starting user record cleaning: 7 records received 
+2026-02-21  19:55 - WARNING  - Record 2 rejected | reasons=['country contains numeric characters'] | record={'email': 'Bold@Example.com ', 'age': '23', 'country': '0'} 
+2026-02-21  19:55 - WARNING  - Record 3 rejected | reasons=['email missing', 'age out of range'] | record={'email': '', 'age': '190', 'country': 'NG'} 
+2026-02-21  19:55 - WARNING  - Record 4 rejected | reasons=['age out of range'] | record={'age': '0', 'email': 'bob@example.com', 'country': 'us'} 
+2026-02-21  19:55 - WARNING  - Record 5 rejected | reasons=['country missing'] | record={'age': '15', 'email': 'bob@.com', 'country': ''} 
+2026-02-21  19:55 - WARNING  - Record 6 rejected | reasons=['email missing local part', 'country contains numeric characters'] | record={'age': '35', 'email': '@example.com', 'country': '0'} 
+2026-02-21  19:55 - WARNING  - Record 7 rejected | reasons=['age not numeric'] | record={'age': 'x', 'email': 'bob@example.com', 'country': 'CA'} 
+2026-02-21  19:55 - INFO  - Cleaning completed | clean=1 | rejected=6 
+2026-03-21  18:16 - INFO  - Starting user record cleaning: 7 records received 
+2026-03-21  18:16 - WARNING  - Record 2 rejected | reasons=['country contains numeric characters'] | record={'email': 'Bold@Example.com ', 'age': '23', 'country': '0'} 
+2026-03-21  18:16 - WARNING  - Record 3 rejected | reasons=['email missing', 'age out of range'] | record={'email': '', 'age': '190', 'country': 'NG'} 
+2026-03-21  18:16 - WARNING  - Record 4 rejected | reasons=['age out of range'] | record={'age': '0', 'email': 'bob@example.com', 'country': 'us'} 
+2026-03-21  18:16 - WARNING  - Record 5 rejected | reasons=['country missing'] | record={'age': '15', 'email': 'bob@.com', 'country': ''} 
+2026-03-21  18:16 - WARNING  - Record 6 rejected | reasons=['email missing local part', 'country contains numeric characters'] | record={'age': '35', 'email': '@example.com', 'country': '0'} 
+2026-03-21  18:16 - WARNING  - Record 7 rejected | reasons=['age not numeric'] | record={'age': 'x', 'email': 'bob@example.com', 'country': 'CA'} 
+2026-03-21  18:16 - INFO  - Cleaning completed | clean=1 | rejected=6 
+2026-03-21  18:28 - INFO  - Starting user record cleaning: 7 records received 
+2026-03-21  18:28 - WARNING  - Record 2 rejected | reasons=['country contains numeric characters'] | record={'email': 'Bold@Example.com ', 'age': '23', 'country': '0'} 
+2026-03-21  18:28 - WARNING  - Record 3 rejected | reasons=['email missing', 'age out of range'] | record={'email': '', 'age': '190', 'country': 'NG'} 
+2026-03-21  18:28 - WARNING  - Record 4 rejected | reasons=['age out of range'] | record={'age': '0', 'email': 'bob@example.com', 'country': 'us'} 
+2026-03-21  18:28 - WARNING  - Record 5 rejected | reasons=['country missing'] | record={'age': '15', 'email': 'bob@.com', 'country': ''} 
+2026-03-21  18:28 - WARNING  - Record 6 rejected | reasons=['email missing local part', 'country contains numeric characters'] | record={'age': '35', 'email': '@example.com', 'country': '0'} 
+2026-03-21  18:28 - WARNING  - Record 7 rejected | reasons=['age not numeric'] | record={'age': 'x', 'email': 'bob@example.com', 'country': 'CA'} 
+2026-03-21  18:28 - INFO  - Cleaning completed | clean=1 | rejected=6 
+2026-03-21  18:52 - INFO  - Starting user record cleaning: 7 records received 
+2026-03-21  18:52 - WARNING  - Record 2 rejected | reasons=['country contains numeric characters'] | record={'email': 'Bold@Example.com ', 'age': '23', 'country': '0'} 
+2026-03-21  18:52 - WARNING  - Record 3 rejected | reasons=['email missing', 'age out of range'] | record={'email': '', 'age': '190', 'country': 'NG'} 
+2026-03-21  18:52 - WARNING  - Record 4 rejected | reasons=['age out of range'] | record={'age': '0', 'email': 'bob@example.com', 'country': 'us'} 
+2026-03-21  18:52 - WARNING  - Record 5 rejected | reasons=['country missing'] | record={'age': '15', 'email': 'bob@.com', 'country': ''} 
+2026-03-21  18:52 - WARNING  - Record 6 rejected | reasons=['email missing local part', 'country contains numeric characters'] | record={'age': '35', 'email': '@example.com', 'country': '0'} 
+2026-03-21  18:52 - WARNING  - Record 7 rejected | reasons=['age not numeric'] | record={'age': 'x', 'email': 'bob@example.com', 'country': 'CA'} 
+2026-03-21  18:52 - INFO  - Cleaning completed | clean=1 | rejected=6 
+2026-03-28  08:30 - INFO  - Starting user record cleaning: 7 records received 
+2026-03-28  08:30 - WARNING  - Record 2 rejected | reasons=['country contains numeric characters'] | record={'email': 'Bold@Example.com ', 'age': '23', 'country': '0'} 
+2026-03-28  08:30 - WARNING  - Record 3 rejected | reasons=['email missing', 'age out of range'] | record={'email': '', 'age': '190', 'country': 'NG'} 
+2026-03-28  08:30 - WARNING  - Record 4 rejected | reasons=['age out of range'] | record={'age': '0', 'email': 'bob@example.com', 'country': 'us'} 
+2026-03-28  08:30 - WARNING  - Record 5 rejected | reasons=['country missing'] | record={'age': '15', 'email': 'bob@.com', 'country': ''} 
+2026-03-28  08:30 - WARNING  - Record 6 rejected | reasons=['email missing local part', 'country contains numeric characters'] | record={'age': '35', 'email': '@example.com', 'country': '0'} 
+2026-03-28  08:30 - WARNING  - Record 7 rejected | reasons=['age not numeric'] | record={'age': 'x', 'email': 'bob@example.com', 'country': 'CA'} 
+2026-03-28  08:30 - INFO  - Cleaning completed | clean=1 | rejected=6 
+2026-03-28  08:39 - INFO  - Starting user record cleaning: 7 records received 
+2026-03-28  08:39 - WARNING  - Record 2 rejected | reasons=['country contains numeric characters'] | record={'email': 'Bold@Example.com ', 'age': '23', 'country': '0'} 
+2026-03-28  08:39 - WARNING  - Record 3 rejected | reasons=['email missing', 'age out of range'] | record={'email': '', 'age': '190', 'country': 'NG'} 
+2026-03-28  08:39 - WARNING  - Record 4 rejected | reasons=['age out of range'] | record={'age': '0', 'email': 'bob@example.com', 'country': 'us'} 
+2026-03-28  08:39 - WARNING  - Record 5 rejected | reasons=['country missing'] | record={'age': '15', 'email': 'bob@.com', 'country': ''} 
+2026-03-28  08:39 - WARNING  - Record 6 rejected | reasons=['email missing local part', 'country contains numeric characters'] | record={'age': '35', 'email': '@example.com', 'country': '0'} 
+2026-03-28  08:39 - WARNING  - Record 7 rejected | reasons=['age not numeric'] | record={'age': 'x', 'email': 'bob@example.com', 'country': 'CA'} 
+2026-03-28  08:39 - INFO  - Cleaning completed | clean=1 | rejected=6 
